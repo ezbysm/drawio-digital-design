@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.6">
   <diagram name="페이지-1" id="Dg1Gn93KUp8-xhMss4yx">
-    <mxGraphModel dx="382" dy="259" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="279" dy="179" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,21 @@
         </mxCell>
         <mxCell id="IXCujRkC9pIu_-cdwGrq-2" value="" style="shape=stencil(tVVRboQgED0Nn24UVtvfxm7vQdxZJaVgwFZ7+6JiIyrEtdvEGGcG3rw34wAiua5oDQjHFSKvCOM0Ni9jtqOZWVM3Sr5Dy66NXcdEBYo1fZRcUPxi1vQPyQspBBQNk0I7kVncgFEmzN64G8Fskm9rnfBoI/x2GOL5fohkAZFuQ5DceHwqSX6TCkolP8V1M3FN+wquAlP4Q36BV1RI0gRAVWE+VOe2T1mIs9W0iT+1votox3SkZEN7gc5STlUJkUkS3TgtnZBuAeqZO9lDlzMx05s8TUVfULpHM/kF8ahOXdk4fajs/2C8qstjO7WLstupA39mwaWGwEgav2c4zFAxzscjKAAAnLNaz0guG+0ebYk1K9f0oe+i8IfpDuff7kJ2ynB6ACXE4/wQHmGUcLO9VR62rc7XwTveYoPjBw==);whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IXCujRkC9pIu_-cdwGrq-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IXCujRkC9pIu_-cdwGrq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IXCujRkC9pIu_-cdwGrq-5" value="" style="shape=stencil(nZPRboMwDEW/Jo9ULBFVXyfa/kdEXYiWJshJB/z9DEmlMQhakRDi+jrHsnGYKF0jW2A8b5g4M86LnF4kuyCPUTqP9gs6dfMxT5kGUPnRFReWf1LO+IiyssZA5ZU1bub88gkmlaGzeR9gscgQ1YEHzfh1N+L0PuLjD6JYR4iSIqkuRXm3CDXap7mtFm7lOMGF8bIf9huSTW219AJoZZKAYgdBFDsQEiv6wIjgEYHDXK9XiAX6TPbKZWi9HKc887TEGjIqkt21rGeW6wDaZXj/zP4FqLR1sLFtFE/8d9oXpXW4XRuAZMLEXqzcFA0Xewr8AA==);whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="320" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IXCujRkC9pIu_-cdwGrq-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IXCujRkC9pIu_-cdwGrq-7" value="" style="shape=stencil(nZTdjoMgEIWfhks3FsJmbze2+x7ETpUsCwZotW/fUTApVUzXxBjPHPzmR5CwyrWiA0LLlrAjoZSXeEPZB/kZpfPW/EIvzz6uk7oFK/3oshMpv3HNeLGqNlpD7aXRLnGefIQJqfHdcgiwmOQe1QcNmtCf3Yiv/yMOLwi+jmAVRnJdsupiLDTWXPV5NXEnxgkujNn+MzfINrXV0gxQUmcBfAeB8h0IYWt8sC8Ie0/1eoaYYCjEIF1hjRfjlBNPCdtAgUmKixJNYrkeoFuG98/sLUCtjION3YbxzHfH/SKVCqdrAwBKyc49FcnTKucy46k9RNmmMkd/q4Tsgqm9xa6fouHfMgUe);whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="350" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
